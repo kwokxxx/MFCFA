@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+*.swp
+*.pyc
+echonet.cfg
+.echonet.cfg
+echonet.egg-info/
+build/
+dist/
+.idea/
+.DS_Store
+output/
+*.pt
+*.pth
